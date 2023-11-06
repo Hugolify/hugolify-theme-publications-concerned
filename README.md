@@ -1,3 +1,7 @@
+**This is a old module, now get https://github.com/hugolify/hugolify-theme-publications-persons**
+
+***
+
 # hugolify-theme-publications-concerned
 
 ## Install
@@ -8,7 +12,8 @@ imports:
 ```
 
 ## Depends
-https://www.github.com/hugolify/hugolify-theme-persons
+* https://github.com/hugolify/hugolify-theme-persons
+* https://github.com/hugolify/hugolify-theme-publications
 
 ## Documentation
 https://github.com/hugolify/hugolify-template/wiki
